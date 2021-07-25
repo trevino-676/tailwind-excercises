@@ -1,0 +1,10 @@
+{
+  "name": "tailwind-excercises",
+  "version": "1.0.0",
+  "description": "Excercises of tailwind",
+  "main": "index.js",
+  "repository": "git@github.com:trevino-676/tailwind-excercises.git",
+  "author": "Luis Manuel Torres Trevino <luis.trevino@drumbot.com.mx>",
+  "license": "MIT",
+  "private": false
+}
